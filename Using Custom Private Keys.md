@@ -1,6 +1,6 @@
 #How to initialize and write private keys to memory for further usage
 
-##Note:  Assumes fully set up dev environment.  See https://github.com/LedgerHQ/ledger-dev-doc/blob/master/nanos/setup.rst
+###Note:  Assumes fully set up dev environment.  See https://github.com/LedgerHQ/ledger-dev-doc/blob/master/nanos/setup.rst
 
 For this, we will be using the Samplesign app from ledger's sample apps https://github.com/LedgerHQ/blue-sample-apps
 
